@@ -23,7 +23,15 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+<ins> I am underlining this text!</ins>
+> This text is a quote!
+
 [Link](url) and ![Image](src)
+```
+git status
+git add
+git commit
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
