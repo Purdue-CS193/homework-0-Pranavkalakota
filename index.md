@@ -11,28 +11,30 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Pranav's First CS193 Homework
 
-- Bulleted
-- List
+Some of my favorite things in CS 193 are:
+
+- The lecturers and their availability
+- The topics taught
+- Quick response times on ED discussion
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-<ins> I am underlining this text!</ins>
-> This text is a quote!
 
 [Link](url) and ![Image](src)
+
 ```
 git status
 git add
 git commit
 
 ```
+**Bold** and _Italic_ and `Code` text
+
+<ins> I am underlining this text!</ins>
+> This text is a quote!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
